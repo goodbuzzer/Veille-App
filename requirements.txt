@@ -1,0 +1,6 @@
+streamlit
+apify-client
+pandas
+openpyxl
+matplotlib
+wordcloud
